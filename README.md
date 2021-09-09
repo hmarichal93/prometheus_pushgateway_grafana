@@ -49,3 +49,7 @@ sudo docker run --name pushgateway -d -p 9091:9091 prom/pushgateway
 
 ### Installing Docker Grafana 
 Sudo docker run -d --name=grafana -p 3000:3000 grafana/grafana 
+
+
+### Bash Script
+while sleep 1; do ./better-top.sh; done;

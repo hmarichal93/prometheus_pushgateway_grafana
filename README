@@ -1,0 +1,4 @@
+
+https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/
+while sleep 1; do ./better-top.sh; done;
+
